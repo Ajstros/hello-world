@@ -4,5 +4,3 @@ First Repository
 I am following the tutorial on https://guides.github.com/activities/hello-world/ so I understand GitHub
 
 I have added this line from the gh CLI in windows terminal Powershell with Powerline. Very cool.
-
-This is another line
